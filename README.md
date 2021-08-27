@@ -45,7 +45,7 @@ Bellevue, WA City Council [initiated a formal review of Bellevue Police Departme
 | 26 | BPD should eliminate the use of drive stun mode as a pain compliance measure. |:x: | |
 | 27 | BPD should set out the documentation and review requirements for Taser deployment including the downloading of Taser deployment data. |:x: | |
 | 28 | BPD should modify its policy to clarify the type of threat that justifies ERID (Extended Range Impact Devise) deployment and make clear that they should not be used against a passively resistive subject. | :x:| |
-| 29 | BPD should clarify its policy to define an “unruly” crowd or eliminate the term from its policy. |:x: | "rioting" is defined in [01.00.070 (Use of Chemical Agents](https://public.powerdms.com/bellpd/tree/documents/1762) |
+| 29 | BPD should clarify its policy to define an “unruly” crowd or eliminate the term from its policy. |:yellow_circle: | "rioting" is defined in [01.00.070 (Use of Chemical Agents](https://public.powerdms.com/bellpd/tree/documents/1762) |
 | 30 | BPD should modify its policy to require a warning and provide an opportunity to comply before ERID (Extended Range Impact Devise) deployment. | :x:| |
 | 31 | BPD should develop policy that clarifies the type of resistance and threat that justifies CS gas use that goes beyond “necessary.” |:x: | [01.00.070 (Use of Chemical Agents](https://public.powerdms.com/bellpd/tree/documents/1762)|
 | 32 | BPD policy should require officers to provide a warning and opportunity to comply before the deployment of CS gas. |:x: | [01.00.070 (Use of Chemical Agents](https://public.powerdms.com/bellpd/tree/documents/1762)|
