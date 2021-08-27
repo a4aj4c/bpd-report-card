@@ -33,7 +33,7 @@ Bellevue, WA City Council [initiated a formal review of Bellevue Police Departme
 | 14 | BPD should include the dates policies are revised or adopted with its online policy manual. |:x: | |
 | 15 | BPD should remove the neck hold as an authorized force option from its policy manual. | :yellow_circle:| This is also mandatd by [HB 1054 - 2021-22](https://app.leg.wa.gov/billsummary?billnumber=1054&year=2021) which updated [Title 10 RCW](https://apps.leg.wa.gov/RCW/default.aspx?Cite=10). [01.00.050 (Neck Restraint Holds)](https://public.powerdms.com/bellpd/tree/documents/1760) updated 7/24/2021 |
 | 16 | BPD should modify its policy to advise officers of the dangers and ineffectiveness of shooting at or from moving vehicles. |:yellow_circle: | [01.00.030(Use of Firearms - Prohibited](https://public.powerdms.com/bellpd/tree/documents/1758) updated 7/24/2021 |
-| 17 | BPD should modify its policy to require officers to stay out of the path of a moving vehicle and move out of the path of a moving vehicle and retreat to a place of safety when feasible. |:x: | |
+| 17 | BPD should modify its policy to require officers to stay out of the path of a moving vehicle and move out of the path of a moving vehicle and retreat to a place of safety when feasible. |:yellow_circle: | [01.00.030(Use of Firearms - Prohibited](https://public.powerdms.com/bellpd/tree/documents/1758) updated 7/24/2021 |
 | 18 | BPD should modify its Use of Force policy to expressly include K-9 bites as a use of force incident that is subject to all other force principles and policies such as de-escalation and proportionality. |:x: | |
 | 19 | BPD should modify its policy to expressly include K-9 bites in the Department’s force review process. |:x: | |
 | 20 | BPD should require a K-9 handler to obtain medical assistance for a subject as soon as possible after a K-9 use of force. |:x: | |
@@ -44,18 +44,18 @@ Bellevue, WA City Council [initiated a formal review of Bellevue Police Departme
 | 25 | BPD should revise policy to set out the medical assistance required after a Taser deployment including the removal of any prongs from subject. |:x: | |
 | 26 | BPD should eliminate the use of drive stun mode as a pain compliance measure. |:x: | |
 | 27 | BPD should set out the documentation and review requirements for Taser deployment including the downloading of Taser deployment data. |:x: | |
-| 28 | BPD should modify its policy to clarify the type of threat that justifies ERID deployment and make clear that they should not be used against a passively resistive subject. | :x:| |
-| 29 | BPD should clarify its policy to define an “unruly” crowd or eliminate the term from its policy. |:x: | |
-| 30 | BPD should modify its policy to require a warning and provide an opportunity to comply before ERID deployment. | :x:| |
-| 31 | BPD should develop policy that clarifies the type of resistance and threat that justifies CS gas use that goes beyond “necessary.” |:x: | |
-| 32 | BPD policy should require officers to provide a warning and opportunity to comply before the deployment of CS gas. |:x: | |
+| 28 | BPD should modify its policy to clarify the type of threat that justifies ERID (Extended Range Impact Devise) deployment and make clear that they should not be used against a passively resistive subject. | :x:| |
+| 29 | BPD should clarify its policy to define an “unruly” crowd or eliminate the term from its policy. |:x: | "rioting" is defined in [01.00.070 (Use of Chemical Agents](https://public.powerdms.com/bellpd/tree/documents/1762) |
+| 30 | BPD should modify its policy to require a warning and provide an opportunity to comply before ERID (Extended Range Impact Devise) deployment. | :x:| |
+| 31 | BPD should develop policy that clarifies the type of resistance and threat that justifies CS gas use that goes beyond “necessary.” |:x: | [01.00.070 (Use of Chemical Agents](https://public.powerdms.com/bellpd/tree/documents/1762)|
+| 32 | BPD policy should require officers to provide a warning and opportunity to comply before the deployment of CS gas. |:x: | [01.00.070 (Use of Chemical Agents](https://public.powerdms.com/bellpd/tree/documents/1762)|
 | 33 | BPD should develop a demonstration and crowd control policy, balancing the exercise of First Amendment activity with interests in public safety. |:x: | |
 | 34 | BPD should publish on its website any munitions authorized for use by its Civil Disturbance Unit or SWAT team. | :x:| |
 | 35 | BPD should update its supervisory force review policy to correspond to its current practice and incorporate the supervisor “checklist” into policy. |:x: | |
 | 36 | BPD should develop policy to create a critical incident review board that would formally examine serious incidents through the prisms of tactics and decision-making, policy compliance, accountability, equipment, supervision, training, and post-incident management such as timely provision of medical aid. |:x: | |
 | 37 | The City should consider outfitting its officers with body-worn cameras while also developing a policy governing their use that provides personnel clear direction and guidance on camera activation, supervisory responsibilities, and the use of footage for investigative, audit and training purposes, as well as clear standards for the public release of video footage. |:x: | |
-| 38 | BPD should delete its policy that indicates use of force report copies shall not be retained after the review process is completed. |:x: | |
-| 39 | BPD should revise its policies to allow for the creation of an early intervention system with regard to uses of force and remove any current language prohibiting consideration of an officer’s frequency of force incidents. |:x: | |
+| 38 | BPD should delete its policy that indicates use of force report copies shall not be retained after the review process is completed. |:x: | [01.00.090 (Use of Force Reporting/Notification)](https://public.powerdms.com/bellpd/tree/documents/1764)|
+| 39 | BPD should revise its policies to allow for the creation of an early intervention system with regard to uses of force and remove any current language prohibiting consideration of an officer’s frequency of force incidents. |:x: | [01.00.090 (Use of Force Reporting/Notification)](https://public.powerdms.com/bellpd/tree/documents/1764)|
 | 40 | BPD should regularly publish on its website its use of force data, broken down by types of force used, and demographics, and should include data on the extent to which alcohol, drugs, or the subject’s mental health status played a role in the incident. |:x: | |
 | 41 | BPD should post its annual use of force report on its website. |:x: | |
 | 42 | BPD should post its Professional Standards Annual Report on its website. | :x:| |
