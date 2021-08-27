@@ -1,16 +1,17 @@
 # Bellevue Police Department Use of Force Policy Report Card
 
-## What is this?
-
 Bellevue, WA City Council [initiated a formal review of Bellevue Police Department's use of force policies](https://bellevuewa.gov/city-government/city-council/council-pledge) by a third party in June 2020. [Read the final report here](https://bellevuewa.gov/sites/default/files/media/pdf_document/2021/Use-of-Force-Policy-Review-Final-OIR-Group.pdf). The report concludes with 47 concrete actions that BPD can make. This website is keeping track of the status of each recommendation. Bellevue Police Department's public [policy manual is accessable here](https://public.powerdms.com/bellpd/tree).
 
-## Current Status
-
 <!---
-<p class="callout success">Report Card: <b>47/47</b> items are complete</p>
-<p class="callout warning">Report Card: <b>24+/47</b> items are complete</p>
+| :heavy_check_mark: Report Card: **47/47** items are complete |
+| :-: |
+
+| :yellow_circle: Report Card: **24/47** items are complete |
+| :-: |
 --->
-<p class="callout danger">Report Card: <b>0/47</b> items are complete</p>
+
+| :x: Report Card: **0/47** items are complete |
+| :-: |
 
 ## Details
 
