@@ -18,21 +18,21 @@ Bellevue, WA City Council [initiated a formal review of Bellevue Police Departme
 |   | Recommendation | Status | Notes |
 |:-:| :--            |   :-:  |  :--  |
 | 1 | BPD should incorporate a provision into its policy manual stating its commitment to the sanctity and preservation of life and the dignity of every individual. | :x: | |
-| 2 | BPD should incorporate the concept of proportionality into its Use of Force policy. | :x: | |
-| 3 | BPD should finalize its de-escalation policy. | :x: | |
-| 4 | BPD should create policy requiring officers to include in their force documentation any efforts at de-escalation prior to using force and if no efforts were made, to explain the circumstances about why they were not feasible. | :x: | |
-| 5 | BPD should create policy requiring supervisory review of force incidents to evaluate any efforts officers made to de-escalate the encounter and if they used no de-escalation tactics or techniques, to consider whether such efforts would have been feasible. |:x: | |
+| 2 | BPD should incorporate the concept of proportionality into its Use of Force policy. | :x: | Defition of "proportional" in policy [01.00.010 (Use of Force)](https://public.powerdms.com/bellpd/tree/documents/1756); also present in [01.00.020 (Use of Firearms)](https://public.powerdms.com/bellpd/tree/documents/1757); absent elsewhere  |
+| 3 | BPD should finalize its de-escalation policy. | :x: | [01.00.011 (De-Escalation)](https://public.powerdms.com/bellpd/tree/documents/2334783)|
+| 4 | BPD should create policy requiring officers to include in their force documentation any efforts at de-escalation prior to using force and if no efforts were made, to explain the circumstances about why they were not feasible. | :x: | [01.00.011 (De-Escalation)](https://public.powerdms.com/bellpd/tree/documents/2334783) |
+| 5 | BPD should create policy requiring supervisory review of force incidents to evaluate any efforts officers made to de-escalate the encounter and if they used no de-escalation tactics or techniques, to consider whether such efforts would have been feasible. |:x: | absent from [01.00.011 (De-Escalation)](https://public.powerdms.com/bellpd/tree/documents/2334783), [01.00.090 (Use of Force Reporting/Notification)](https://public.powerdms.com/bellpd/tree/documents/1764) |
 | 6 | BPD should devise protocols that encourage supervisors to identify and commend officers who use successful de-escalation strategies to avoid uses of force. |:x: | |
 | 7 | BPD policy should provide special guidance to its school resource officers that recognizes the particular importance of de-escalation in the school environment and acknowledges the additional resources available to officers working in the schools. | :x:| |
 | 8 | BPD should expressly include in its policy language advising its officers of a duty to intervene when they observe an officer use unreasonable force. | :x:| |
 | 9 | BPD should expressly include in its policy language advising its officers of a duty to promptly report when they observe another officer use unreasonable force or have intervened in order to prevent an officer from using unreasonable force. |:x: | |
 | 10 | BPD should consider revising or eliminating its duty of loyalty policy. | :x:| |
-| 11 | BPD should modify its force policy to require express documentation and supervisory review of whether reasonably effective alternatives to force were considered or attempted. |:x: | |
-| 12 | BPD should modify its deadly force policy to prohibit the use of deadly force against an individual who only poses a danger to self. | :x:| |
-| 13 | BPD should modify its deadly force policy to include a requirement that officers provide a warning before using deadly force, when feasible. | :x:| |
+| 11 | BPD should modify its force policy to require express documentation and supervisory review of whether reasonably effective alternatives to force were considered or attempted. |:x: | [01.00.090 (Use of Force Reporting/Notification)](https://public.powerdms.com/bellpd/tree/documents/1764)|
+| 12 | BPD should modify its deadly force policy to prohibit the use of deadly force against an individual who only poses a danger to self. | :x:| [01.00.010 (Use of Force)](https://public.powerdms.com/bellpd/tree/documents/1756)|
+| 13 | BPD should modify its deadly force policy to include a requirement that officers provide a warning before using deadly force, when feasible. | :x:| [01.00.010 (Use of Force)](https://public.powerdms.com/bellpd/tree/documents/1756)|
 | 14 | BPD should include the dates policies are revised or adopted with its online policy manual. |:x: | |
-| 15 | BPD should remove the neck hold as an authorized force option from its policy manual. | :x:| |
-| 16 | BPD should modify its policy to advise officers of the dangers and ineffectiveness of shooting at or from moving vehicles. |:x: | |
+| 15 | BPD should remove the neck hold as an authorized force option from its policy manual. | :yellow_circle:| This is also mandatd by [HB 1054 - 2021-22](https://app.leg.wa.gov/billsummary?billnumber=1054&year=2021) which updated [Title 10 RCW](https://apps.leg.wa.gov/RCW/default.aspx?Cite=10). [01.00.050 (Neck Restraint Holds)](https://public.powerdms.com/bellpd/tree/documents/1760) updated 7/24/2021 |
+| 16 | BPD should modify its policy to advise officers of the dangers and ineffectiveness of shooting at or from moving vehicles. |:yellow_circle: | [01.00.030(Use of Firearms - Prohibited](https://public.powerdms.com/bellpd/tree/documents/1758) updated 7/24/2021 |
 | 17 | BPD should modify its policy to require officers to stay out of the path of a moving vehicle and move out of the path of a moving vehicle and retreat to a place of safety when feasible. |:x: | |
 | 18 | BPD should modify its Use of Force policy to expressly include K-9 bites as a use of force incident that is subject to all other force principles and policies such as de-escalation and proportionality. |:x: | |
 | 19 | BPD should modify its policy to expressly include K-9 bites in the Department’s force review process. |:x: | |
