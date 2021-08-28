@@ -32,3 +32,7 @@
 | :x: | no action taken |
 |:yellow_circle:| some action taken, or partially complete (see notes) |
 |:heavy_check_mark:| recommendation is complete |
+
+---
+
+Also see [#8toAbolition](https://www.8toabolition.com/), with goals beyond the city-level and where *"the end goal of these reforms is not to create better, friendlier, or more community-oriented police or prisons. Instead, we hope to build toward a society without police or prisons, where communities are equipped to provide for their safety and wellbeing."*
