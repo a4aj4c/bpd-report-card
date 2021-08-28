@@ -1,6 +1,6 @@
 # Bellevue Police Department Use of Force Policy Report Card
 
-Bellevue, WA City Council [initiated a formal review of Bellevue Police Department's use of force policies](https://bellevuewa.gov/city-government/city-council/council-pledge) by a third party in June 2020. [Read the final report here](https://bellevuewa.gov/sites/default/files/media/pdf_document/2021/Use-of-Force-Policy-Review-Final-OIR-Group.pdf). The report concludes with 47 concrete actions that BPD can make. This website is keeping track of the status of each recommendation. Bellevue Police Department's public [policy manual is accessible here](https://public.powerdms.com/bellpd/tree) or as three zip files here ([part1](https://github.com/a4aj4c/bpd-report-card/blob/main/documents%20-%20part1.zip), [part2](https://github.com/a4aj4c/bpd-report-card/blob/main/documents%20-%20part2.zip), [part3](https://github.com/a4aj4c/bpd-report-card/blob/main/documents%20-%20part3.zip))..
+Bellevue, WA City Council [initiated a formal review of Bellevue Police Department's use of force policies](https://bellevuewa.gov/city-government/city-council/council-pledge) by a third party in June 2020. [Read the final report here](https://bellevuewa.gov/sites/default/files/media/pdf_document/2021/Use-of-Force-Policy-Review-Final-OIR-Group.pdf). The report concludes with 47 concrete actions that BPD can make. This website is keeping track of the status of each recommendation. Bellevue Police Department's public [policy manual is accessible here](https://public.powerdms.com/bellpd/tree) or as three zip files here ([part1](https://github.com/a4aj4c/bpd-report-card/raw/main/documents%20-%20part1.zip), [part2](https://github.com/a4aj4c/bpd-report-card/raw/main/documents%20-%20part2.zip), [part3](https://github.com/a4aj4c/bpd-report-card/raw/main/documents%20-%20part3.zip))..
 
 <!---
 | :heavy_check_mark: Report Card: 47/47 items are complete |
@@ -37,7 +37,7 @@ Bellevue, WA City Council [initiated a formal review of Bellevue Police Departme
 | 18 | BPD should modify its Use of Force policy to expressly include K-9 bites as a use of force incident that is subject to all other force principles and policies such as de-escalation and proportionality. |:x: | |
 | 19 | BPD should modify its policy to expressly include K-9 bites in the Department’s force review process. |:x: | |
 | 20 | BPD should require a K-9 handler to obtain medical assistance for a subject as soon as possible after a K-9 use of force. |:x: | |
-| 21 | BPD should place its K-9 policy online. |:x: | |
+| 21 | BPD should place its K-9 policy online. |:yellow_circle: | [K-9 Unit Manual](https://public.powerdms.com/bellpd/tree/documents/1513542)|
 | 22 | BPD should revise policy to prevent simultaneous deployment of multiple Tasers on the same subject. |:x: | |
 | 23 | BPD should revise policy to restrict Taser applications to five second activations. |:x: | |
 | 24 | BPD should revise policy to require officers to reassess the threat level before redeploying the Taser and limit the number of deployments to three or less. |:x: | |
