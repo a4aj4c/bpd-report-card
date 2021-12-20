@@ -13,7 +13,7 @@
 | :x: Report Card: 0/8 items are complete |
 | :-: |
 
-| Report Card: 2/8 items are complete |
+| Report Card: 1/8 items are complete |
 | :-- |
 |  :heavy_check_mark: 1/8 |
 | :yellow_circle: 7/8 partially addressed |
