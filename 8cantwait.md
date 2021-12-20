@@ -10,9 +10,6 @@
 | :-: |
 --->
 
-| :x: Report Card: 0/8 items are complete |
-| :-: |
-
 | Report Card: 1/8 items are complete |
 | :-- |
 |  :heavy_check_mark: 1/8 |
