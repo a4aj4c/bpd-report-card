@@ -67,7 +67,7 @@ Bellevue, WA City Council [initiated a formal review of Bellevue Police Departme
 | 44 | BPD should modify its Firearms Review Board provisions to ensure that witnesses are formally interviewed rather than being called before any Board for fact gathering. |:x: | not addressed [02.00.120 (Firearms Review Board)](https://public.powerdms.com/bellpd/tree/documents/2808)|
 | 45 | BPD should update the Firearm Review Board policy to provide a comprehensive review of shooting incidents that includes the performance of all involved personnel (including supervisors and nonforce users) as well as issues of policy, training, tactics, supervision, planning and coordination, choice of force options, and post-incident conduct and performance. |:x: |  not addressed [02.00.120 (Firearms Review Board)](https://public.powerdms.com/bellpd/tree/documents/2808)|
 | 46 | BPD should update its “Mentally Ill Person” policy to correspond to current practices and expectations. |:x: | not addressed |
-| 47 | BPD should develop policy and protocol to ensure that its Advisory Councils are consulted regarding use of force policy revisions prior to being finalized. |:x: | not addressed |
+| 47 | BPD should develop policy and protocol to ensure that its Advisory Councils are consulted regarding use of force policy revisions prior to being finalized. |:x: | not addressed; [Advisory Councils](https://bellevuewa.gov/city-government/departments/police/about-police/police-advisory-councils)|
 
 
 **Status Legend:**
