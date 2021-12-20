@@ -10,10 +10,11 @@ Bellevue, WA City Council [initiated a formal review of Bellevue Police Departme
 | :-: |
 --->
 
-| Report Card: 0/47 items are complete |
+| Report Card: 1/47 items are complete |
 | :-- |
 | :x: 26/47 have not been addressed |
-| :yellow_circle: 21/47 partially complete |
+| :yellow_circle: 21/47 partially completed |
+| :heavy_check_mark: 1/47 completed |
 
 
 ## Details
@@ -34,7 +35,7 @@ Bellevue, WA City Council [initiated a formal review of Bellevue Police Departme
 | 12 | BPD should modify its deadly force policy to prohibit the use of deadly force against an individual who only poses a danger to self. |  :yellow_circle:| "*At a person who the officer reasonably believes poses a danger only to themself and does not pose a potential danger to any other person.*" [01.00.030 (Use of Firearms - Prohibited)](https://public.powerdms.com/bellpd/tree/documents/1758)|
 | 13 | BPD should modify its deadly force policy to include a requirement that officers provide a warning before using deadly force, when feasible. |  :yellow_circle:| "*If feasible, and if doing so would not increase the danger to the officer or others, the officer should give a verbal warning prior to using deadly force.*" [01.00.020 (Use of Firearms - Authorized)](https://public.powerdms.com/bellpd/tree/documents/1757); [01.00.010 (Use of Force)](https://public.powerdms.com/bellpd/tree/documents/1756)|
 | 14 | BPD should include the dates policies are revised or adopted with its online policy manual. |:x: | Some documents show that they were updated 7/24/2021, others have no date.|
-| 15 | BPD should remove the neck hold as an authorized force option from its policy manual. | :yellow_circle:| This is also mandatd by [HB 1054 - 2021-22](https://app.leg.wa.gov/billsummary?billnumber=1054&year=2021) which updated [Title 10 RCW](https://apps.leg.wa.gov/RCW/default.aspx?Cite=10). [01.00.050 (Neck Restraint Holds)](https://public.powerdms.com/bellpd/tree/documents/1760) updated 7/24/2021 |
+| 15 | BPD should remove the neck hold as an authorized force option from its policy manual. | :heavy_check_mark: | This is mandatd by [HB 1054 - 2021-22](https://app.leg.wa.gov/billsummary?billnumber=1054&year=2021) which updated [Title 10.116 RCW](https://app.leg.wa.gov/RCW/default.aspx?cite=10.116.020). [01.00.050 (Neck Restraint Holds)](https://public.powerdms.com/bellpd/tree/documents/1760) updated 7/24/2021 |
 | 16 | BPD should modify its policy to advise officers of the dangers and ineffectiveness of shooting at or from moving vehicles. |:yellow_circle: | [01.00.030(Use of Firearms - Prohibited)](https://public.powerdms.com/bellpd/tree/documents/1758) updated 7/24/2021 |
 | 17 | BPD should modify its policy to require officers to stay out of the path of a moving vehicle and move out of the path of a moving vehicle and retreat to a place of safety when feasible. |:yellow_circle: | [01.00.030(Use of Firearms - Prohibited](https://public.powerdms.com/bellpd/tree/documents/1758) updated 7/24/2021 |
 | 18 | BPD should modify its Use of Force policy to expressly include K-9 bites as a use of force incident that is subject to all other force principles and policies such as de-escalation and proportionality. |:x: | not addressed. K-9 use of force is not expressly included in use of force policies, and is specifically excluded from some use of force reporting requirements, [01.00.090 (Use of Force Reporting/Notification)](https://public.powerdms.com/bellpd/tree/documents/1764); separate [K-9 Unit Manual](https://public.powerdms.com/bellpd/tree/documents/1513542)|
