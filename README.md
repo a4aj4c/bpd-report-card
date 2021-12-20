@@ -12,8 +12,8 @@ Bellevue, WA City Council [initiated a formal review of Bellevue Police Departme
 
 | Report Card: 1/47 items are complete |
 | :-- |
-| :x: 26/47 have not been addressed |
-| :yellow_circle: 21/47 partially completed |
+| :x: 25/47 have not been addressed |
+| :yellow_circle: 22/47 partially completed |
 | :heavy_check_mark: 1/47 completed |
 
 
@@ -62,7 +62,7 @@ Bellevue, WA City Council [initiated a formal review of Bellevue Police Departme
 | 39 | BPD should revise its policies to allow for the creation of an early intervention system with regard to uses of force and remove any current language prohibiting consideration of an officer’s frequency of force incidents. |:x: | "*The number of reports which exist concerning an officer's permissible use of force will not be used in evaluating the officer's performance or as the basis for disciplinary action. Any use of force which is in accordance with this procedure is permissible, **regardless of its frequency**.*" [01.00.090 (Use of Force Reporting/Notification)](https://public.powerdms.com/bellpd/tree/documents/1764)|
 | 40 | BPD should regularly publish on its website its use of force data, broken down by types of force used, and demographics, and should include data on the extent to which alcohol, drugs, or the subject’s mental health status played a role in the incident. |:x: | data not available on [Bellevue Police Department Data Dashboard](https://bellevuewa.gov/city-government/departments/police/police-data) (only available in 2020 annual report below; past reports or data not available) |
 | 41 | BPD should post its annual use of force report on its website. |:yellow_circle: | past reports not available; [2020 - Use of Force Summary and Analysis Report](https://bellevuewa.gov/sites/default/files/media/pdf_document/2021/2020-Use%20of%20Force%20Summary%20and%20Analysis%20Report-Final%205.19.21.pdf) |
-| 42 | BPD should post its Professional Standards Annual Report on its website. | :x:| not addressed |
+| 42 | BPD should post its Professional Standards Annual Report on its website. |:yellow_circle: | short report with 2015-2019 data: [Professional Standards Investigations](https://bellevuewa.gov/sites/default/files/media/pdf_document/2021/Complaints_1.pdf) |
 | 43 | BPD should draft and implement an administrative investigative protocol for officer-involved deadly force incidents, prioritizing the Department’s approach to administrative interviews of involved officers, and ensuring that BPD has a timely account from those officers. |:x: | not addressed |
 | 44 | BPD should modify its Firearms Review Board provisions to ensure that witnesses are formally interviewed rather than being called before any Board for fact gathering. |:x: | not addressed [02.00.120 (Firearms Review Board)](https://public.powerdms.com/bellpd/tree/documents/2808)|
 | 45 | BPD should update the Firearm Review Board policy to provide a comprehensive review of shooting incidents that includes the performance of all involved personnel (including supervisors and nonforce users) as well as issues of policy, training, tactics, supervision, planning and coordination, choice of force options, and post-incident conduct and performance. |:x: |  not addressed [02.00.120 (Firearms Review Board)](https://public.powerdms.com/bellpd/tree/documents/2808)|
