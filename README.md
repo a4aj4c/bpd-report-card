@@ -11,9 +11,9 @@ Bellevue, WA City Council [initiated a formal review of Bellevue Police Departme
 --->
 
 | Report Card: 0/47 items are complete |
-| :-: |
+| :-- |
 | :x: 26/47 have not been addressed |
-| :yellow_circle: 21/47 have had some action taken or pending are completion |
+| :yellow_circle: 21/47 partially complete |
 
 
 ## Details
