@@ -84,3 +84,5 @@ Bellevue, WA City Council [initiated a formal review of Bellevue Police Departme
 [8 Can't Wait: Bellevue, WA](8cantwait.md)
 
 [Police Scorecard: Bellevue, WA](https://policescorecard.org/wa/police-department/bellevue)
+
+[miscellaneous](misc/README.md)
