@@ -76,3 +76,9 @@ Bellevue, WA City Council [initiated a formal review of Bellevue Police Departme
 | :x: | no action taken |
 |:yellow_circle:| some action taken, or partially complete (see notes) |
 |:heavy_check_mark:| recommendation is complete |
+
+---
+
+**Also see:**
+
+[Police Scorecard: Bellevue, WA](https://policescorecard.org/wa/police-department/bellevue)
