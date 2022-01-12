@@ -2,6 +2,8 @@
 
 Bellevue, WA City Council [initiated a formal review of Bellevue Police Department's use of force policies](https://bellevuewa.gov/city-government/city-council/council-pledge) by a third party in June 2020. [Read the final report here](https://bellevuewa.gov/sites/default/files/media/pdf_document/2021/Use-of-Force-Policy-Review-Final-OIR-Group.pdf). The report concludes with 47 concrete actions that BPD can make. This website is keeping track of the status of each recommendation. Bellevue Police Department's public [policy manual is accessible here](https://public.powerdms.com/bellpd/tree) or as three zip files here from 8/28/2021 ([part1](https://github.com/a4aj4c/bpd-report-card/raw/main/documents%20-%20part1.zip), [part2](https://github.com/a4aj4c/bpd-report-card/raw/main/documents%20-%20part2.zip), [part3](https://github.com/a4aj4c/bpd-report-card/raw/main/documents%20-%20part3.zip)), or use [this](https://gist.github.com/a4aj4c/7595c1c3171082f758468eab3cb59895) to download the latest version of all policy documents.
 
+Update 01/12/2022: BPD held a "[Community Meeting: Use of Force policy reform update](https://bellevuebeatblog.com/2022/01/03/community-meeting-use-of-force-policy-reform-update/)" on 01/12/2022 to present their own "[Use of Force Policy Review Status](12.08.21 Council Pledge_OIR UOF Policy Review Status.pdf)"
+
 <!---
 | :heavy_check_mark: Report Card: 47/47 items are complete |
 | :-: |
