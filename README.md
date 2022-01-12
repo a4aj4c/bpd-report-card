@@ -14,8 +14,8 @@ Update 01/12/2022: BPD held a "[Community Meeting: Use of Force policy reform up
 
 | Report Card: 1/47 items are complete |
 | :-- |
-| :x: 24/47 have not been addressed |
-| :yellow_circle: 23/47 partially completed |
+| :x: 23/47 have not been addressed |
+| :yellow_circle: 24/47 partially completed |
 | :heavy_check_mark: 1/47 completed |
 
 
