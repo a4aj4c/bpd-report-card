@@ -20,9 +20,9 @@ Update 08/04/2022: City Council was [presented with an update on BPD's work towa
 
 | Report Card: 1/47 items are complete |
 | :-- |
-| :x: 23/47 have not been addressed |
-| :yellow_circle: 24/47 partially completed |
-| :heavy_check_mark: 1/47 completed |
+| :x: 18/47 have not been addressed |
+| :yellow_circle: 9/47 partially completed |
+| :heavy_check_mark: 20/47 completed |
 
 
 ## Details
