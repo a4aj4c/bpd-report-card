@@ -10,10 +10,10 @@
 | :-: |
 --->
 
-| Report Card: 4/8 items are complete |
+| Report Card: 5/8 items are complete |
 | :-- |
-|  :heavy_check_mark: 4/8 |
-| :yellow_circle: 4/8 partially addressed |
+|  :heavy_check_mark: 5/8 |
+| :yellow_circle: 3/8 partially addressed |
 
 ## Details
 
@@ -25,7 +25,7 @@
 | 4 | Requires Exhaust All Alternatives Before Shooting | :yellow_circle:| "*Exhaust all available and appropriate de-escalation and/or less lethal tactics prior to using deadly force **when feasible and reasonably safe to do so** *" [01.00.020 (Use of Firearms - Authorized)](https://public.powerdms.com/bellpd/tree/documents/1757) updated 7/24/2021  |
 | 5 | Duty to Intervene | :heavy_check_mark: | [01.00.012 (Duty to Intervene and Report)](https://public.powerdms.com/bellpd/tree/documents/2414128) updated 7/24/2021 |
 | 6 | Ban Shooting at Moving Vehicles | :heavy_check_mark: | [01.00.030 (Use of Firearms - Prohibited)](https://public.powerdms.com/bellpd/tree/documents/1758)  updated 7/24/2021 |
-| 7 | Has Use of Force Continuum | :yellow_circle: | [01.00.010 (Use of Force)](https://public.powerdms.com/bellpd/tree/documents/1756) |
+| 7 | Has Use of Force Continuum | :heavy_check_mark:  | [01.00.010 (Use of Force)](https://public.powerdms.com/bellpd/tree/documents/1756) updated 6/22/2022 |
 | 8 | Requires Comprehensive Reporting | :yellow_circle:  | [01.00.090 (Use of Force Reporting/Notification)](https://public.powerdms.com/bellpd/tree/documents/1764) |
 
 **Status Legend:**
