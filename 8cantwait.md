@@ -10,10 +10,10 @@
 | :-: |
 --->
 
-| Report Card: 1/8 items are complete |
+| Report Card: 4/8 items are complete |
 | :-- |
-|  :heavy_check_mark: 1/8 |
-| :yellow_circle: 7/8 partially addressed |
+|  :heavy_check_mark: 4/8 |
+| :yellow_circle: 4/8 partially addressed |
 
 ## Details
 
