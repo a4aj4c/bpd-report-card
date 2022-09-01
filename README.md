@@ -4,6 +4,12 @@ Bellevue, WA City Council [initiated a formal review of Bellevue Police Departme
 
 Update 01/12/2022: BPD held a "[Community Meeting: Use of Force policy reform update](https://bellevuebeatblog.com/2022/01/03/community-meeting-use-of-force-policy-reform-update/)" on 01/12/2022 to present their own "[Use of Force Policy Review Status](12.08.21_Council_Pledge_OIR_UOF_Policy_Review_Status.pdf)"
 
+Update 03/16/2022: CCAT pilot project ends, [community feedback sought](https://www.engagingbellevue.com/community-crisis-assistance-team-pilot?preview=true) and [final report](https://bellevuewa.gov/sites/default/files/media/pdf_document/2022/CCAT%20Program%20Evaluation%20FInal%20December%202021.pdf) released.
+
+Update 07/01/2022: BPD releases a new ["Transparency and Accountability"](https://bpd-data.bellevuewa.gov/) webpage with data dashboards.
+
+Update 08/04/2022: City Council was [presented with an update on BPD's work towards implementing the OIR's recommendations](https://bellevuewa.gov/city-news/council-roundup-community-members-make-budget-asks).
+
 <!---
 | :heavy_check_mark: Report Card: 47/47 items are complete |
 | :-: |
